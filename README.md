@@ -1,2 +1,2 @@
 # separate-thousands
-Function to add a comma after every a thousand digits
+Function/helper/util to add a comma after every a thousand digits. It is good for large numbers, especially when working with money.
