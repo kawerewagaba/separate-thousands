@@ -1,0 +1,16 @@
+{
+  "name": "separate-thousands",
+  "version": "1.0.3",
+  "description": "Util to add a comma after every a thousand digits.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": "https://github.com/kawerewagaba/separate-thousands.git",
+  "author": "Kawere Wagaba <kawerewagaba@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}

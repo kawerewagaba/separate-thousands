@@ -1,4 +1,4 @@
-const separateThousands = (price: string | number): string => {
+export default function (price: string | number): string {
   // stringify
   const priceString = String(price);
 
@@ -29,6 +29,4 @@ const separateThousands = (price: string | number): string => {
   }
 
   return priceString;
-};
-
-export default separateThousands;
+}
